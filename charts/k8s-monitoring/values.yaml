@@ -1,5 +1,5 @@
 global:
-  platform: kubernetes
+  platform: ""
 cluster:
   name: kubernetes
 destinations:
