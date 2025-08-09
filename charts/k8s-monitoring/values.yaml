@@ -1,3 +1,5 @@
+global:
+  platform: kubernetes
 cluster:
   name: kubernetes
 destinations:
